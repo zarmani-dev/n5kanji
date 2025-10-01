@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import kanjiData from "./lib/N4kanji.json";
+import kanjiData from "./lib/N5kanji.json";
 import { HomeScreen } from "./components/HomeScreen";
 import { DetailScreen } from "./components/DetailScreen";
 import { PracticeScreen } from "./components/PracticeScreen"; // Practice mode component would be
